@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(181, 231, 220);
+}
+.myform{
+    background-color: burlywood;
+}
+.signin{
+    text-align: center;
+    height: 1cm;
+}
+a{
+    color: chartreuse;
+}
+.btn{
+    color: chocolate;
+    background-color: cornflowerblue;
+    width: 88%;
+    height: 1cm;
+}
